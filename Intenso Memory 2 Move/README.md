@@ -16,3 +16,4 @@
 * https://openwrt.org/toh/intenso/memory_2_move
 * https://hckohwnotes.blogspot.com/2014/06/accessing-serial-interface-on-intenso.html
 * https://hckohwnotes.blogspot.com/2014/05/
+* GPL Firmware Source Code: https://github.com/open-source-code-archive/intenso-memory2move
